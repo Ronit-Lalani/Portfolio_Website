@@ -4,8 +4,6 @@ Personal portfolio website built with HTML, CSS, and JavaScript. Showcases my pr
 
 🔗 **Live Site:** [your-site-url.com](https://your-site-url.com)
 
----
-
 ## Sections
 
 - **Hero** — Introduction and quick summary
@@ -16,7 +14,6 @@ Personal portfolio website built with HTML, CSS, and JavaScript. Showcases my pr
 - **Projects** — Interactive Sales Dashboard (Excel + Pivot Tables)
 - **Contact** — Email, LinkedIn, GitHub
 
----
 
 ## Built With
 
@@ -27,7 +24,6 @@ Personal portfolio website built with HTML, CSS, and JavaScript. Showcases my pr
 
 No frameworks. No dependencies. Opens directly in a browser.
 
----
 
 ## Run Locally
 
@@ -38,7 +34,6 @@ Or use VS Code Live Server:
 2. Right-click `index.html` → **Open with Live Server**
 3. View at `http://127.0.0.1:5500`
 
----
 
 ## Project Structure
 
@@ -55,7 +50,6 @@ portfolio/
 └── README.md
 ```
 
----
 
 ## Featured Project
 
@@ -66,14 +60,9 @@ Analyzed 10,000+ sales records across metrics including Total Sales, Orders, Ave
 
 🔗 [View Repository](https://github.com/Ronit-Lalani/Sales_Data_Analysis_2025)
 
----
 
 ## Contact
 
 - **Email:** ronitlalani@gmail.com
-- **LinkedIn:** [linkedin.com/in/ronitlalani](https://linkedin.com/in/ronitlalani)
-- **GitHub:** [github.com/ronitlalani](https://github.com/ronitlalani)
-
----
-
-© 2026 Ronit Lalani. Based in Ahmedabad, India.
+- **LinkedIn:** [linkedin.com/in/ronitlalani](www.linkedin.com/in/ronit-lalani-public)
+- **GitHub:** [github.com/ronitlalani](https://github.com/Ronit-Lalani)
