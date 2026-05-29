@@ -63,6 +63,6 @@ Analyzed 10,000+ sales records across metrics including Total Sales, Orders, Ave
 
 ## Contact
 
-- **Email:** ronitlalani@gmail.com
-- **LinkedIn:** [linkedin.com/in/ronitlalani](www.linkedin.com/in/ronit-lalani-public)
+- **Email:** ronitvlalani@gmail.com
+- **LinkedIn:** [linkedin.com/in/ronitlalani](https://linkedin.com/in/ronit-lalani-public)
 - **GitHub:** [github.com/ronitlalani](https://github.com/Ronit-Lalani)
